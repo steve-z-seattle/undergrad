@@ -1,5 +1,5 @@
 # undergrad (WIP)
-An autograd engine for optimizing artificial neural networks.
+A preliminary autograd engine for optimizing artificial neural networks.
 
 Inspired by Andrej's micrograd: https://github.com/karpathy/micrograd
 
